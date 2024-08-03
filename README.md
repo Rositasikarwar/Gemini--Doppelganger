@@ -83,7 +83,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact 📧
 
-For inquiries or support, please contact [yourname@example.com](mailto:roshitasikarwar@gmail.com).
+For inquiries or support, please contact [roshitasikarwar@gmail.com](mailto:roshitasikarwar@gmail.com).
 
 ---
 
