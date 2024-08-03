@@ -88,7 +88,3 @@ For inquiries or support, please contact [roshitasikarwar@gmail.com](mailto:rosh
 ---
 
 Thank you for exploring Gemini Doppelganger! We hope it provides valuable insights and enhances your data analysis experience. 🚀📊
-
----
-
-Feel free to adjust any details or add more specifics about the project as needed!
